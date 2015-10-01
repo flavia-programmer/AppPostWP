@@ -12,7 +12,7 @@ App para listar posts do WP http://www.sitepoint.com/building-a-phonegap-app-wit
 
 # WordPress
 # Adicionar na functions.php
-
+<pre>
 function already_logged_in(){
 	echo "User is already Logged In";
 	die();
@@ -71,3 +71,4 @@ function no_posts(){
 
 add_action("wp_ajax_posts", "posts");
 add_action("wp_ajax_nopriv_posts", "no_posts");
+</pre>
