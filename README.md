@@ -1,5 +1,5 @@
 # AppPostWP
-App para listar posts do WP http://www.sitepoint.com/building-a-phonegap-app-with-a-wordpress-backend/
+App para listar posts do WP
 
 # Clonar dentro de /www
 
